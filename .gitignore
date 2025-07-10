@@ -1,0 +1,6 @@
+# Binários
+chat-app
+*.exe
+
+# Arquivos de sistema
+.DS_Store
